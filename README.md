@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Currently working on Action Game project.
+
+
+# Game jams
+
+[Warsaw Mermaid Game Jam by CRPK](https://crpk.pl/wydarzenia/zapraszamy-na-kolejny-game-jam-crpk)
+Link soon
+
 <!--
 **dudusteo/dudusteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
