@@ -1,10 +1,51 @@
-Currently working on Action Game project.
+## Games that I worked on:
+
+<table>
+  <tr>
+    <td>
+      <img src="https://play-lh.googleusercontent.com/oji-h-2JVp9PdPrk9UawYKwHGkYejr_y0lMbIcVNKMmmt_HXRLMnNmZjYMJaYmuJDw0=s128" alt="Mine & Slash: Arcade RPG Games" width="80"/>
+    </td>
+    <td>
+      <strong>Mine & Slash: Arcade RPG Games</strong><br>
+      <a href="https://play.google.com/store/apps/details?id=com.mining.fever&hl=en">Mine & Slash: Arcade RPG Games</a>
+    </td>
+  </tr>
+</table>
+
+## Game jams
 
 
-### Game jams
 
-[Warsaw Mermaid Game Jam by CRPK](https://crpk.pl/wydarzenia/zapraszamy-na-kolejny-game-jam-crpk)
-Link soon
+
+<table>
+  <thead>
+    <tr>
+      <th>Image</th>
+      <th>Game Jam</th>
+      <th>Link to game</th>
+      <th>Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/6e9fedcf-1e29-470c-ba60-60c77b84389c" width="250px"/>
+      </td>
+      <td>
+        <a href="https://crpk.pl/wydarzenia/zapraszamy-na-kolejny-game-jam-crpk">Warsaw Mermaid Game Jam by CRPK</a>
+      </td>
+      <td>
+        <a href="">Soon</a>
+      </td>
+      <td>
+        11-13 Oct 2024
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 
 <!--
 **dudusteo/dudusteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
