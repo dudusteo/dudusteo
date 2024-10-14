@@ -1,9 +1,7 @@
-## Hi there 👋
-
 Currently working on Action Game project.
 
 
-# Game jams
+### Game jams
 
 [Warsaw Mermaid Game Jam by CRPK](https://crpk.pl/wydarzenia/zapraszamy-na-kolejny-game-jam-crpk)
 Link soon
