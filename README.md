@@ -1,4 +1,6 @@
-## Games that i working on (1+ commit a day will create a game someday ;) )
+## Games that I'm working on: 
+
+#### 1+ commit a day will create a game someday ;)
 
 - Gladiator project 
   - Genre: Action Game, Rogue Like, Survors Like, Boss killer
@@ -47,6 +49,20 @@
       </td>
       <td>
         11-13 Oct 2024
+      </td>
+    </tr>
+     <tr>
+      <td>
+        <img src="https://github.com/user-attachments/assets/a3116a0e-ab38-40b1-8315-3035dec80843" width="250px"/>
+      </td>
+      <td>
+        <a href="https://www.facebook.com/photo/?fbid=3431514710433948&set=a.1534482053470566">Code'n'GROW by TapNice (BoomBit S.A. Group)</a>
+      </td>
+      <td>
+        <a href="">In Progress</a>
+      </td>
+      <td>
+        July 2023
       </td>
     </tr>
   </tbody>
