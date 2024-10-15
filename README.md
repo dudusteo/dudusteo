@@ -1,3 +1,11 @@
+## Games that i working on (1+ commit a day will create a game someday ;) )
+
+- Gladiator project 
+  - Genre: Action Game, Rogue Like, Survors Like, Boss killer
+  - Setting: Anime Fantasy
+  - Unity3D, VRoid Studio
+  - Current Phase: Prepering Vertical Slice for marketing
+
 ## Games that I worked on:
 
 <table>
