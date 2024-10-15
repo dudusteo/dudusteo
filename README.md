@@ -8,7 +8,7 @@
   - Unity3D, VRoid Studio
   - Current Phase: Prepering Vertical Slice for marketing
 
-## Games that I worked on:
+## Commercial Games that I worked on:
 
 <table>
   <tr>
