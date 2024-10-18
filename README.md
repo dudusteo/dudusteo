@@ -45,7 +45,7 @@
         <a href="https://crpk.pl/wydarzenia/zapraszamy-na-kolejny-game-jam-crpk">Warsaw Mermaid Game Jam by CRPK</a>
       </td>
       <td>
-        <a href="">Soon</a>
+        <a href="">Not yet availible</a>
       </td>
       <td>
         11-13 Oct 2024
@@ -59,7 +59,7 @@
         <a href="https://www.facebook.com/photo/?fbid=3431514710433948&set=a.1534482053470566">Code'n'GROW by TapNice (BoomBit S.A. Group)</a>
       </td>
       <td>
-        <a href="">In Progress</a>
+        <a href="https://drive.google.com/file/d/1CEn4Zayer7ao9LpCAZPsy23FoG3Uj2cS/view?usp=sharing">Video link</a>
       </td>
       <td>
         July 2023
