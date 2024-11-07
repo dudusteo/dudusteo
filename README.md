@@ -1,6 +1,6 @@
-## Games that I'm working on: 
-
 #### 1+ commit a day will create a game someday ;)
+
+## Games that I'm working on: 
 
 - Gladiator project 
   - Genre: Action Game, Rogue Like, Survors Like, Boss killer
