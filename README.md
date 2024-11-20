@@ -45,7 +45,7 @@
         <a href="https://crpk.pl/wydarzenia/zapraszamy-na-kolejny-game-jam-crpk">Warsaw Mermaid Game Jam by CRPK</a>
       </td>
       <td>
-        <a href="">Not yet availible</a>
+        <a href="https://crpk.pl/blog/przedstawiamy-gry-stworzone-podczas-warsaw-mermaid-game-jam">Rybackie opowieści</a>
       </td>
       <td>
         11-13 Oct 2024
